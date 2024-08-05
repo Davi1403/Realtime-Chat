@@ -1,4 +1,4 @@
-This project is a real-time chat application developed using Python and the Flet library
+This repository contains a real-time chat application developed using Python and the Flet library.
 
 ## Credits
 
